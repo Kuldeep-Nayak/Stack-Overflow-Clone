@@ -5,7 +5,7 @@ Build a version of the Stack Overflow page (attached image) using React, Vue, or
 * Use the Stack Overflow open APIs to populate the question section dynamically:  
   * https://api.stackexchange.com/docs  
   * https://api.stackexchange.com/docs/posts
-Implement filters like "hot", "week", etc., using the API.  
+  * Implement filters like "hot", "week", etc., using the API.  
 * Sections like the Overflow Blog and others can be hardcoded and do not need to be made dynamic.  
 * Bonus: Implement search functionality using the API.  
 
