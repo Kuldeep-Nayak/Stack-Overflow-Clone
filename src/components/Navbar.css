@@ -1,0 +1,24 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #ff6f00;
+    color: white;
+    font-size: 18px;
+  }
+  
+  .navbar-left .logo {
+    font-weight: bold;
+    font-size: 22px;
+  }
+  
+  .navbar-right ul {
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+  }
+  
+  .navbar-right li {
+    cursor: pointer;
+  }
+  

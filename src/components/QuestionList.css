@@ -1,0 +1,35 @@
+.question-list {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .filters {
+    margin-bottom: 20px;
+  }
+  
+  .filters button {
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 8px 16px;
+    margin-right: 10px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .filters button:hover {
+    background-color: #e7e7e7;
+  }
+  
+  .filters button.active {
+    background-color: #ff6f00;
+    color: white;
+    border: 1px solid #ff6f00;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
