@@ -14,3 +14,6 @@ Build a version of the Stack Overflow page (attached image) using React, Vue, or
 * Make regular Git commits to showcase your approach and progress throughout the day.  
 * You are free to use any component library and CSS framework.  
 * Name and organize files, components, and variables as you would for a production-ready application.
+
+### Design
+![stack-overflow-design-v2](https://github.com/user-attachments/assets/5529d8db-edc2-4636-8ab3-06a53de9774a)
